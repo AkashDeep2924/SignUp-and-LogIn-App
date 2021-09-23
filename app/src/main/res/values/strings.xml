@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignUp and Login Page</string>
+    <string name="companyName">BIT BROTHERS</string>
+    <string name="already_have_account">Already have and Account?</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="signup">SignUp Page</string>
+    <string name="login">LogIn Page</string>
+    <string name="signupbtn">SignUp</string>
+    <string name="loginbtn">LogIn</string>
+    <string name="google">Google</string>
+    <string name="home">Home Page</string>
+</resources>

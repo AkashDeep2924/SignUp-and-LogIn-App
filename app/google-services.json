@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49492808911",
+    "project_id": "signup-and-login-page-8fd41",
+    "storage_bucket": "signup-and-login-page-8fd41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49492808911:android:8750bf8481079e926353ba",
+        "android_client_info": {
+          "package_name": "com.akashdeep.signupandloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49492808911-7177ivqsvbdafe0lasaqe86778ioalhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0V42HXqdoP2FlY1OfqSTj9k2RzoWDIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49492808911-7177ivqsvbdafe0lasaqe86778ioalhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
